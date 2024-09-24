@@ -5,7 +5,15 @@ Welcome to my GitHub profile! I am passionate about **Artificial Intelligence**,
 
 ## 🚀 I'm working on
 - **Intelligent Chatbot Assistant**: Designing an LLM-based assistant to answer company-specific queries.
+- 
+## 💼 Experiences
 
+### AI Research Intern | [Aiox Labs](https://www.aioxlabs.com)  
+*June 2024 – September 2024*  
+**Key Projects & Achievements**:
+- Designed and implemented an **E-KYC (Electronic Know Your Customer)** system for a digital bank, using **compareFace** and **deepface** for facial recognition.
+- Worked on **computer vision** tasks, utilizing the **VGGFace dataset** to enhance model accuracy for identity verification.
+- Collaborated with multidisciplinary teams to integrate **machine learning models** into client-facing applications, improving efficiency by 15%.
 
 
 
@@ -18,12 +26,16 @@ Specialization: **Modeling and Scientific Computing**
 - [LinkedIn](https://www.linkedin.com/in/anas-hamdanat-3a2909217/)
 - [Email](mailto:HAMDANAT.ANAS@student.emi.ac.ma)
 
-## 🛠️ Technologies and Tools
-- **Languages**: Python, JavaScript, SQL
-- **AI/ML Frameworks**: TensorFlow, PyTorch, YOLO
-- **Cloud Platforms**: AWS 
+## 📊 Skills
+- **Languages**: Python, R, SQL , VBA
+- **Machine Learning**: Scikit-learn, XGBoost, LightGBM, CatBoost
+- **Deep Learning**: TensorFlow, Keras, PyTorch
+- **Databases**: MySQL, PostgreSQL, MongoDB, NoSQL
+- **Big Data Tools**: Hadoop, Spark
+- **Data Visualization**: Matplotlib, Power BI
+- **Cloud Platforms**: AWS (S3, EC2, Lambda), Azure
 - **Version Control**: Git, GitHub
-- **Other**: Streamlit, Docker, OpenCV
+
 
 
 Thanks for visiting my profile! 😊
