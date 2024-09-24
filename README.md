@@ -1,7 +1,7 @@
 
 # Hi there! 👋 I'm HAMDANAT Anas
 
-Welcome to my GitHub profile! I am passionate about **Artificial Intelligence**, **Data Science**, and **Computer Vision**. Currently, I am working on exciting projects related to **LLMs**, **Object Detection**, and **Autonomous Drones**.
+Welcome to my GitHub profile! I am passionate about **Artificial Intelligence**, **Data Science**, and **Computer Vision**. Currently, I am working on exciting projects related to **LLMs**, **Object Detection**, and **Generative AI**.
 
 ## 🔭 Projects I'm working on
 - **AI Drone Taxi**: Developing AI models for real-time object detection and collision avoidance.
@@ -13,16 +13,15 @@ Welcome to my GitHub profile! I am passionate about **Artificial Intelligence**,
 - Improving **Computer Vision** algorithms for real-time processing.
 
 ## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/anas-hamdanat-3a2909217/)
+- [Email](mailto:HAMDANAT.ANAS@student.emi.ac.ma)
 
 ## 🛠️ Technologies and Tools
 - **Languages**: Python, JavaScript, SQL
 - **AI/ML Frameworks**: TensorFlow, PyTorch, YOLO
-- **Cloud Platforms**: AWS, Google Cloud
+- **Cloud Platforms**: AWS 
 - **Version Control**: Git, GitHub
 - **Other**: Streamlit, Docker, OpenCV
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 Thanks for visiting my profile! 😊
