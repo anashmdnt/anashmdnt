@@ -12,6 +12,11 @@ Welcome to my GitHub profile! I am passionate about **Artificial Intelligence**,
 - Advanced concepts in **Transformers** and **RAG (Retrieval Augmented Generation)**.
 - Improving **Computer Vision** algorithms for real-time processing.
 
+  ## 🎓 Education
+**Mohammadia School of Engineers**  
+*Engineering Degree (M.Eng) | 2021 – 2025*  
+Specialization: **Modeling and Scientific Computing (MIS)**
+
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/anas-hamdanat-3a2909217/)
 - [Email](mailto:HAMDANAT.ANAS@student.emi.ac.ma)
