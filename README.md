@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I am passionate about **Artificial Intelligence**,
 - 
 ## 💼 Experiences
 
-### AI Research Intern | [Aiox Labs](https://www.aioxlabs.com)  
-*June 2024 – September 2024*  
+### AI Research Intern | [Aiox Labs](https://www.aiox-labs.com/)  
+*June 2023 – july 2024*  
 **Key Projects & Achievements**:
 - Designed and implemented an **E-KYC (Electronic Know Your Customer)** system for a digital bank, using **compareFace** and **deepface** for facial recognition.
 - Worked on **computer vision** tasks, utilizing the **VGGFace dataset** to enhance model accuracy for identity verification.
