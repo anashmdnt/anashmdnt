@@ -3,10 +3,9 @@
 
 Welcome to my GitHub profile! I am passionate about **Artificial Intelligence**, **Data Science**, and **Computer Vision**. Currently, I am working on exciting projects related to **LLMs**, **Object Detection**, and **Generative AI**.
 
-## 🔭 Projects I'm working on
-- **AI Drone Taxi**: Developing AI models for real-time object detection and collision avoidance.
+## 🚀 I'm working on
 - **Intelligent Chatbot Assistant**: Designing an LLM-based assistant to answer company-specific queries.
-- **E-KYC System**: Leveraging computer vision for customer verification using the **compareFace** and **deepface** libraries.
+
 
 
 
