@@ -8,9 +8,7 @@ Welcome to my GitHub profile! I am passionate about **Artificial Intelligence**,
 - **Intelligent Chatbot Assistant**: Designing an LLM-based assistant to answer company-specific queries.
 - **E-KYC System**: Leveraging computer vision for customer verification using the **compareFace** and **deepface** libraries.
 
-## 🌱 Currently Learning
-- Advanced concepts in **Transformers** and **RAG (Retrieval Augmented Generation)**.
-- Improving **Computer Vision** algorithms for real-time processing.
+
 
 ## 🎓 Education
 **Engineering Degree (M.Eng)**  
